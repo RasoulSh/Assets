@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 8d0a7d52cc007554e8353dd44c5c401d
+timeCreated: 1454762784
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: Bone004
+    100008: Bone006
+    100010: Bone007
+    100012: Bone008
+    100014: Bone009
+    100016: Bone010
+    100018: Bone011
+    100020: Bone012
+    100022: Bone013
+    100024: Bone014
+    100026: Bone020
+    100028: Bone021
+    100030: Bone022
+    100032: Bone023
+    100034: Bone024
+    100036: Circle001
+    100038: Circle003
+    100040: Circle004
+    100042: Circle005
+    100044: Circle006
+    100046: Circle007
+    100048: Circle008
+    100050: Circle009
+    100052: Circle010
+    100054: Circle011
+    100056: Circle013
+    100058: Circle014
+    100060: Circle015
+    100062: Circle016
+    100064: co.002
+    100066: co.003
+    100068: co.004
+    100070: co.1
+    100072: co002
+    100074: co003
+    100076: co004
+    100078: co01
+    100080: connectBone002
+    100082: connectBone004
+    100084: Donut001
+    100086: Donut002
+    100088: Dummy001
+    100090: Dummy002
+    100092: Dummy003
+    100094: Dummy004
+    100096: IK Chain001
+    100098: IK Chain002
+    100100: IK Chain006
+    100102: IK Chain007
+    100104: IK Chain008
+    100106: IK Chain009
+    100108: //RootNode
+    100110: polySurface17
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: Bone004
+    400008: Bone006
+    400010: Bone007
+    400012: Bone008
+    400014: Bone009
+    400016: Bone010
+    400018: Bone011
+    400020: Bone012
+    400022: Bone013
+    400024: Bone014
+    400026: Bone020
+    400028: Bone021
+    400030: Bone022
+    400032: Bone023
+    400034: Bone024
+    400036: Circle001
+    400038: Circle003
+    400040: Circle004
+    400042: Circle005
+    400044: Circle006
+    400046: Circle007
+    400048: Circle008
+    400050: Circle009
+    400052: Circle010
+    400054: Circle011
+    400056: Circle013
+    400058: Circle014
+    400060: Circle015
+    400062: Circle016
+    400064: co.002
+    400066: co.003
+    400068: co.004
+    400070: co.1
+    400072: co002
+    400074: co003
+    400076: co004
+    400078: co01
+    400080: connectBone002
+    400082: connectBone004
+    400084: Donut001
+    400086: Donut002
+    400088: Dummy001
+    400090: Dummy002
+    400092: Dummy003
+    400094: Dummy004
+    400096: IK Chain001
+    400098: IK Chain002
+    400100: IK Chain006
+    400102: IK Chain007
+    400104: IK Chain008
+    400106: IK Chain009
+    400108: //RootNode
+    400110: polySurface17
+    4300000: polySurface17
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface17
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
